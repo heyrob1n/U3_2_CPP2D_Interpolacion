@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Componentes\Componentes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Control\KeyListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Control\MouseListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Entes\Entidad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Fabricas\FabricaEntidades.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Matematicas\Vector2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Motor\Camara.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Motor\CamaraManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Motor\GameEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Componentes\Componentes.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Control\KeyListener.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Control\MouseListener.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Entes\Entidad.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Fabricas\FabricaEntidades.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\GLOBALS.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Matematicas\Vector2D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Motor\Camara.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Motor\CamaraManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\src\Motor\GameEngine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Usuario\Desktop\U3_2_CPP2D_Interpolacion\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E4E6053E-2CF5-3659-BE39-37D9DC0B1792}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{76516F5A-7BA2-3631-9A3E-70A6D00FF1B4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
