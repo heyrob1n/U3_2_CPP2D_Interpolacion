@@ -1,0 +1,8 @@
+circulo CGreen 100 100 0 255 0 50
+circulo CBlue  200 200 0 0 255 100
+circulo CPurple 300 300 255 0 255 75
+rectangulo RRED 200 200 255 0 0 50 25
+rectangulo RGrey 500 250 100 100 100 50 100
+rectangulo RTeal 25 100 0 255 255 100 100
+triangulo TTAM 300 300 130 130 13 60
+triangulo TUABC 600 450 0 121 52 30

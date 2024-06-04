@@ -1,0 +1,100 @@
+circulo negro 1
+rectangulo blanco 19 4
+rectangulo amarillo 16 16
+triangulo rojo 12 2 6
+rectangulo blanco 18 6
+circulo naranja 8
+triangulo morado 4 4 14
+triangulo blanco 12 15 8
+triangulo naranja 6 15 7
+circulo verde 10
+rectangulo azul 17 8
+circulo naranja 8
+triangulo azul 4 14 1
+triangulo amarillo 6 6 2
+triangulo verde 15 2 5
+triangulo rojo 9 5 6
+circulo amarillo 3
+circulo verde 5
+circulo verde 1
+circulo blanco 2
+rectangulo blanco 20 16
+rectangulo verde 20 15
+rectangulo morado 4 8
+circulo amarillo 10
+circulo verde 3
+triangulo blanco 6 10 5
+triangulo naranja 9 6 12
+rectangulo naranja 17 18
+triangulo rojo 12 11 12
+triangulo negro 3 9 11
+triangulo morado 10 1 12
+rectangulo negro 11 16
+rectangulo morado 3 3
+rectangulo negro 15 13
+circulo morado 5
+triangulo negro 2 5 3
+rectangulo morado 18 9
+triangulo blanco 3 13 14
+circulo amarillo 5
+rectangulo rojo 14 16
+circulo morado 2
+triangulo blanco 12 3 1
+circulo verde 2
+circulo morado 2
+circulo amarillo 8
+circulo morado 9
+rectangulo morado 19 13
+triangulo blanco 3 2 2
+rectangulo azul 16 17
+rectangulo verde 14 12
+rectangulo verde 13 15
+rectangulo verde 3 19
+circulo negro 6
+circulo negro 2
+circulo amarillo 9
+circulo amarillo 1
+triangulo morado 2 1 15
+triangulo rojo 3 6 10
+circulo rojo 3
+triangulo naranja 7 14 8
+triangulo morado 10 2 1
+rectangulo blanco 20 9
+triangulo amarillo 9 10 1
+rectangulo naranja 15 19
+circulo morado 1
+rectangulo negro 18 1
+rectangulo blanco 16 11
+rectangulo verde 4 14
+triangulo morado 3 12 8
+triangulo negro 13 3 13
+circulo rojo 4
+circulo azul 5
+circulo negro 7
+circulo verde 1
+circulo amarillo 1
+rectangulo rojo 19 3
+circulo rojo 6
+circulo blanco 7
+circulo verde 10
+rectangulo blanco 12 20
+circulo blanco 8
+rectangulo blanco 15 16
+rectangulo negro 9 6
+rectangulo verde 7 18
+triangulo amarillo 6 10 2
+triangulo negro 9 9 6
+rectangulo morado 14 20
+rectangulo azul 1 1
+circulo verde 7
+circulo negro 9
+triangulo negro 10 10 13
+triangulo amarillo 9 2 7
+triangulo azul 15 12 14
+rectangulo naranja 3 11
+circulo azul 7
+circulo negro 2
+rectangulo azul 17 10
+circulo negro 6
+triangulo negro 8 13 10
+rectangulo naranja 19 15
